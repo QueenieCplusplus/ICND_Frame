@@ -1,5 +1,5 @@
 # ICND Frame
-資料框的內容解讀 (根據 IEEE 802.3 標準)
+資料框的內容解讀 (根據 IEEE 802.3 和 802.2 標準)
 
 * MAC sublayer
 
