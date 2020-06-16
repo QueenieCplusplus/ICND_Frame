@@ -21,8 +21,7 @@
                                                           |
                                                           |
                                                           |
-                                                          V
-                                                          
+                                                          V                                                    
                              
                                +----------+----------+------+----------------+
                                | Dest SAP | Sorce SAP| ctrl | Variable (Data)| 
@@ -41,7 +40,6 @@
                                                                 |
                                                                 |
                                                                 V
-
 
                     +----------+----------+------+--------+------+----------------+
                     | Dest SAP | Sorce SAP| ctrl | OUI ID | Type | Variable (Data)|
