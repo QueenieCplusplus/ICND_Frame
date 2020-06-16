@@ -15,6 +15,10 @@
       /* FCS 為 Frame Checksum Sequence, 資料框（序號）檢查碼，內含 CRC 檢查值，
          由發送端運算出來，附加在資料框尾端的特定值，接收端收到 frame 後，經由對 CRC 
          值得重新計算與核對，便可確認收到的資料框是否在傳輸中發生過錯誤。 */
+         
+* Frame Checksum
+
+http://www.tsnien.idv.tw/Network_WebBook/chap18/18-5%20FDDI%20訊框格式.html
 
 
 * LLC sublayer - SAP (IEEE 802.2)
